@@ -1,0 +1,23 @@
+{
+  "name": "codera-theme",
+  "displayName": "CoderaTheme",
+  "description": "Beautiful blue and easy on the eyes VsCode theme",
+  "publisher": "JaspersArt",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "icon": "icon/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codera Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JaspersArt-color-theme.json"
+      }
+    ]
+  }
+}
