@@ -12,3 +12,5 @@ Developer friendly theme I made for VsCode. I hope you will use it fondly.
 * [Instagram](https://www.instagram.com/jaspers_artz/)
 
 **😊**
+![image](https://github.com/user-attachments/assets/f6754648-0e1c-4bc6-a616-cf665ab7acb3)
+
